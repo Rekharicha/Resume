@@ -322,7 +322,11 @@ address {
 }
 
 .heading_skills {
-  margin-bottom: 48px;
+  margin-bottom: 35px;
+}
+
+.heading_skills2 {
+  margin-bottom: 20px;
 }
 
 .skills-list {
@@ -336,6 +340,10 @@ address {
   font-size: 11px;
   display: flex;
   justify-content: space-between;
+}
+
+.sports{
+  padding-bottom: 30px;
 }
 
 .level {
